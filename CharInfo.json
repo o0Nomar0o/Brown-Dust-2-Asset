@@ -606,7 +606,13 @@
         "releaseDate": "2025-02-27",
         "spine": "char003703",
         "cutscene": "cutscene_char003703"
-      }
+      },
+      {
+        "costumeId": "003702",
+        "costumeName": "Onsen",
+        "releaseDate": "I Forgor",
+        "spine": "char003702",
+        "cutscene": "cutscene_char003702"
     ]
   },
   {
